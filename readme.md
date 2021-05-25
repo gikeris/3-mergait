@@ -24,4 +24,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 Gintautas, you can find me at:  
 [Github](https://github.com/gikeris)  
-[LinkedIn](https://www.linkedin.com/in/gintautas-kondra%C5%A1evi%C4%8Dius-707b84207/)![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+[LinkedIn](https://www.linkedin.com/in/gintautas-kondra%C5%A1evi%C4%8Dius-707b84207/)
