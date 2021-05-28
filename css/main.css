@@ -7,10 +7,12 @@ header{
     display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);
+    margin-top: 20px;
 }
 
 header > img{
     float: left;
+    height: 50px;
 }
 
 nav{
@@ -24,7 +26,6 @@ main{
     display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);
-    background-color: yellow;
 }
 
 div{
@@ -32,19 +33,29 @@ div{
     float: left;
     margin-left: 2.5%;
     margin-right: 2.5%;
-    background-color: blue;
+    margin-top:80px;
 }
 h1{
-
+    display: inline-block;
+    width: 100%;
+    margin:0;
+    font-size: 100px;
+    line-height: 80px;
+    color: #9d9d9d;
 }
 
 p{
-
+    display: inline-block;
+    width: 100%;
+    font-size:28px;
+    margin:0;
+    line-height: 1.24;
+    color: #9d9d9d;
 }
 main > img{
     width: 50%;
     float: left;
     margin-left: 2.5%;
     margin-right: 2.5%;
-    background-color: red;
+
 }
