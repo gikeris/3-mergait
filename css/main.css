@@ -8,6 +8,7 @@ header{
     width: 800px;
     margin-left: calc(50% - 400px);
     margin-top: 20px;
+    
 }
 
 header > img{
@@ -17,15 +18,30 @@ header > img{
 
 nav{
     float: right;
+    margin-top: 10px;
 }
 a{
+    float: left;
+    padding: 5px;
+    padding-left:13px;
+    padding-right:13px;
+    color: #9d9d9d;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 20px;
+    border: 5px solid transparent;
 
+}
+a:last-of-type{
+    border-color: #9d9d9d;
+    margin-left:30px;
 }
 
 main{
     display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);
+    margin-top:40px;
 }
 
 div{
